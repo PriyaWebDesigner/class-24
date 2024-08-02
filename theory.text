@@ -1,0 +1,8 @@
+
+
+Data Type = string, number, boolean, object
+
+string-> " ";
+number-> any number 23;
+boolean-> true/false;
+object-> {name:" ", color:" ", width:" "};
